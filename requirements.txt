@@ -1,0 +1,20 @@
+# Neo4j
+neo4j
+
+# LangChain and related
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+pydantic
+
+# Document Processing
+pypdf
+
+# OpenAI
+openai
+
+# Utilities
+python-dotenv
+
+sentence-transformers
