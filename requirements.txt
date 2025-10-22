@@ -18,3 +18,4 @@ openai
 python-dotenv
 
 sentence-transformers
+pandas

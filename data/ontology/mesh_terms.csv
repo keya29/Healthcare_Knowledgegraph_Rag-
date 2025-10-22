@@ -1,0 +1,855 @@
+concept_id,term,parent_id
+D000001,Calcimycin,D02.355.291.933
+D000002,Temefos,D02.705.400.625
+D000003,Abattoirs,J01.576.423.200.700
+D000004,Abbreviations as Topic,L01.559.598.400.556
+D000005,Abdomen,A01.923
+D000006,"Abdomen, Acute",C23.888.592.612.054
+D000007,Abdominal Injuries,C26
+D000008,Abdominal Neoplasms,C04.588
+D000009,Abdominal Muscles,A02.633.567
+D000010,Abducens Nerve,A08.800.800.120
+D000011,Abelson murine leukemia virus,B04.613.807.375.525
+D000012,Abetalipoproteinemia,C16.320.565.398.500.440
+D000013,Congenital Abnormalities,C16
+D000014,"Abnormalities, Drug-Induced",C16.131
+D000015,"Abnormalities, Multiple",C16.131
+D000016,"Abnormalities, Radiation-Induced",C16.131
+D000017,ABO Blood-Group System,D23.050.301.290
+D000018,Abomasum,A13.869
+D000019,Abortifacient Agents,D27.505.696.875
+D000020,"Abortifacient Agents, Nonsteroidal",D27.505.696.875.131
+D000021,"Abortifacient Agents, Steroidal",D27.505.696.875.131
+D000022,"Abortion, Spontaneous",C12.050.703
+D000023,Abortion Applicants,M01
+D000024,"Abortion, Illegal",I01.198.240
+D000025,"Abortion, Eugenic",E04.520.050
+D000026,"Abortion, Habitual",C12.050.703.039
+D000027,"Abortion, Incomplete",C12.050.703.039
+D000028,"Abortion, Induced",E04.520
+D000029,"Abortion, Legal",E04.520.050
+D000030,"Abortion, Missed",C12.050.703.039
+D000031,"Abortion, Septic",C01.674
+D000032,"Abortion, Therapeutic",E04.520.050
+D000033,"Abortion, Threatened",C12.050.703
+D000034,"Abortion, Veterinary",C12.050.703.039
+D000035,Abreaction,F04.754.720
+D000036,Abrin,D08.811.277.450.430.700.750
+D000037,Abruptio Placentae,C12.050.703.420
+D000038,Abscess,C01.830
+D000039,Peritonsillar Abscess,C01.748.561.750
+D000040,Abscisic Acid,D02.241.223.268
+D000041,Absenteeism,F02.784.692
+D000042,Absorption,G01
+D000043,Abstracting and Indexing,L01.462.750.245
+D000044,Dental Abutments,E06.780.346
+D000045,Acacia,B01.875.800.575.912.250.401
+D000046,Academic Medical Centers,N02.278
+D000047,Academies and Institutes,N03.540
+D000048,Acanthamoeba,B01.046.500.100.075
+D000049,Acanthocephala,B01.050.500.500
+D000050,Acanthocytes,A11.118.290.330
+D000051,Acantholysis,C17.800.865
+D000052,Acanthosis Nigricans,C17.800.621.430.530
+D000053,Acari,B01.050.500.131.166
+D000054,Acceleration,G01.482
+D000055,Accessory Nerve,A08.800.800.120
+D000056,Accident Prevention,N06.850.135
+D000057,Accident Proneness,F01.145
+D000058,Accidental Falls,N06.850.135
+D000059,Accidents,N06.850
+D000060,"Accidents, Aviation",N06.850.135
+D000061,"Accidents, Home",N06.850.135
+D000062,"Accidents, Occupational",N06.850.135
+D000063,"Accidents, Traffic",N06.850.135
+D000064,Acclimatization,G07.025
+D000065,"Accommodation, Ocular",G14
+D000066,Accounting,N03.219.463
+D000067,Accounts Payable and Receivable,N03.219.463.030
+D000068,Accreditation,N03.706.110
+D000069,Acculturation,I01.076.201.450
+D000070,Acebutolol,D02.033.100.624.698
+D000072,Acedapsone,D02.886.590.263
+D000073,Acenaphthenes,D02.455.426.559.847.638
+D000074,Acenocoumarol,D03.383.663.283.446.520
+D000075,Acepromazine,D02.886.369
+D000076,Acetabularia,B01.875.150
+D000077,Acetabulum,A02.835.232.043.825
+D000079,Acetaldehyde,D02.047
+D000080,Acetals,D02.355
+D000081,Acetamides,D02.065
+D000082,Acetaminophen,D02.065.199.092
+D000083,Acetanilides,D02.065.199
+D000084,Acetate Kinase,D08.811.913.696.630
+D000085,Acetates,D02.241.081
+D000086,Acetazolamide,D02.886.675.867
+D000089,Acetic Anhydrides,D02.113
+D000090,Acetoacetates,D02.241.755
+D000091,Acetobacter,B03.440.400.425.100
+D000092,Acetohexamide,D02.065.884.060
+D000093,Acetoin,D02.522.296
+D000094,Acetoin Dehydrogenase,D08.811.682.047.820
+D000095,Acetolactate Synthase,D08.811.913.200
+D000096,Acetone,D02.522
+D000097,Acetonitriles,D02.626
+D000098,Acetophenones,D02.522
+D000099,Acetoxyacetylaminofluorene,D02.065.064.150
+D000100,Acetrizoic Acid,D02.241.223.100.050.300
+D000101,Acetyl-CoA C-Acetyltransferase,D08.811.913.050.134
+D000102,Acetyl-CoA C-Acyltransferase,D08.811.913.050
+D000103,Acetyl-CoA Carboxylase,D08.811.464.257
+D000104,Acetyl-CoA Hydrolase,D08.811.277.352.897
+D000105,Acetyl Coenzyme A,D03.633.100.759.646.138.382.300
+D000106,Acetate-CoA Ligase,D08.811.464.267.500
+D000107,Acetylation,G02.111.012
+D000108,Acetylcarnitine,D02.092.877.883.099
+D000109,Acetylcholine,D02.092.211
+D000110,Acetylcholinesterase,D08.811.277.352.100.170
+D000111,Acetylcysteine,D02.886.030.230
+D000112,Acetyldigitoxins,D04.210.500.155.580.130.500.336
+D000113,Acetyldigoxins,D04.210.500.155.580.130.500.436
+D000114,Acetylene,D02.455.326.397
+D000115,Acetylesterase,D08.811.277.352.100
+D000116,Acetylgalactosamine,D09.067.342.356
+D000117,Acetylglucosamine,D09.067.342.531
+D000118,Acetylglucosaminidase,D08.811.277.450.483.180
+D000119,Acetylmuramyl-Alanyl-Isoglutamine,D09.067.550
+D000120,Acecainide,D02.241.223.100.050.500
+D000121,Acetylserotonin O-Methyltransferase,D08.811.913.555.500
+D000122,Acetylthiocholine,D02.092.877.883.333.800
+D000123,Acetyltransferases,D08.811.913.050
+D000124,Achievement,F01.658
+D000125,Achilles Tendon,A02.880
+D000126,Achlorhydria,C06.405.748
+D000127,Acholeplasma,B03.440.860.074
+D000128,Acholeplasma laidlawii,B03.440.860.074.150
+D000129,Acholeplasmataceae,B03.440.860
+D000130,Achondroplasia,C05.116.099.343
+D000134,"Acid Etching, Dental",E06.931.475
+D000135,Acid Phosphatase,D08.811.277.352.650
+D000136,Acid-Base Equilibrium,G02.111
+D000137,Acid-Base Imbalance,C18.452
+D000138,Acidosis,C18.452.076
+D000140,"Acidosis, Lactic",C18.452.076.176
+D000141,"Acidosis, Renal Tubular",C12.050.351.968.419.815
+D000142,"Acidosis, Respiratory",C08.618.846
+D000143,Acids,D01
+D000144,"Acids, Acyclic",D02.241
+D000145,"Acids, Aldehydic",D02.241
+D000146,"Acids, Carbocyclic",D02.241
+D000147,"Acids, Heterocyclic",D03
+D000148,"Acids, Noncarboxylic",D01.029
+D000149,Acidulated Phosphate Fluoride,D01.029.260.700.675.374
+D000150,Acinetobacter,B03.440.400.425.537
+D000151,Acinetobacter Infections,C01.150.252.400.560
+D000152,Acne Vulgaris,C17.800.030
+D000153,Acne Keloid,A10.165.450.300.425
+D000154,Aconitate Hydratase,D08.811.520.241.300
+D000156,Aconitic Acid,D02.241.081.901
+D000157,Aconitine,D02.455.849.291.184
+D000158,Acoustic Impedance Tests,E01.370.382.375
+D000159,Vestibulocochlear Nerve,A08.800.800.120
+D000160,Vestibulocochlear Nerve Diseases,C09.218.807
+D000161,Acoustic Stimulation,E02
+D000162,Acoustics,H01.671
+D000163,Acquired Immunodeficiency Syndrome,C01.221.250.875
+D000164,Acremonium,B01.300.381
+D000165,Acridine Orange,D03.633.300.046.250
+D000166,Acridines,D03.633.300
+D000167,Acriflavine,D03.633.300.046.250
+D000168,Acrocephalosyndactylia,C05.116.099.370.894.232
+D000169,Acrodermatitis,C16.131.831
+D000170,Acrodynia,C10.668.829
+D000171,Acrolein,D02.047
+D000172,Acromegaly,C05.116.132
+D000173,Acromioclavicular Joint,A02.835.583
+D000174,Acromion,A02.835.232.087.783
+D000175,Acronine,D03.132.032
+D000176,Acrosin,D08.811.277.656.300.760
+D000177,Acrosome,A05.360.490.890.820
+D000178,Acrylamides,D02.065
+D000179,Acrylates,D02.241.081
+D000180,Acrylic Resins,D05.750.716.822
+D000181,Acrylonitrile,D02.626
+D000182,"ACTH Syndrome, Ectopic",C04.730.713
+D000183,Actihaemyl,D20.777
+D000184,Acting Out,F01.393
+D000185,Actinin,D05.750.078.730
+D000186,Actinium,D01.268.271.100
+D000187,Actinobacillosis,C01.150.252.400.700.030
+D000188,Actinobacillus,B03.440.450
+D000189,Actinobacillus Infections,C01.150.252.400.700
+D000190,Actinomyces,B03.510.024.049.050
+D000191,Actinomycetaceae,B03.510.024.049
+D000192,Actinomycetales,B03.510.024
+D000193,Actinomycetales Infections,C01.150.252.410
+D000196,Actinomycosis,C01.150.252.410.040
+D000197,"Actinomycosis, Cervicofacial",C01.150.252.410.040.137
+D000198,Spectinomycin,D03.383.188
+D000199,Actins,D05.750.078.730
+D000200,Action Potentials,G04.580
+D000201,Activation Analysis,E05.196
+D000202,Activator Appliances,E06.658.453.560
+D000203,Activities of Daily Living,E02.760.169.063.500
+D000204,Activity Cycles,G07.180.562.797
+D000205,Actomyosin,D12.776.210.500
+D000206,Actuarial Analysis,E05.318.740
+D000208,Acute Disease,C23.550.291
+D000209,Acute-Phase Proteins,D12.776.124
+D000210,Acute-Phase Reaction,C23.550.470
+D000212,Acyclovir,D03.633.100.759.758.399.454
+D000213,Acyl Carrier Protein,D12.776.157
+D000214,Acyl Coenzyme A,D03.633.100.759.646.138.382
+D000215,Acylation,G02.111
+D000216,N-Acylneuraminate Cytidylyltransferase,D08.811.913.696.445
+D000217,Acyltransferases,D08.811.913
+D000218,Adamantane,D02.455.426.100
+D000219,Adams-Stokes Syndrome,C14.280.067.558
+D000220,"Adaptation, Biological",G16
+D000221,"Adaptation, Ocular",G14
+D000222,"Adaptation, Physiological",G07
+D000223,"Adaptation, Psychological",F01
+D000224,Addison Disease,C19.053.500
+D000225,Adenine,D03.633.100.759
+D000226,"Mitochondrial ADP, ATP Translocases",D12.776.157.530.625.875
+D000227,Adenine Nucleotides,D03.633.100.759.646
+D000228,Adenine Phosphoribosyltransferase,D08.811.913.400.725
+D000229,Dependovirus,B04.280.580.650
+D000230,Adenocarcinoma,C04.557.470.200
+D000231,"Adenocarcinoma, Papillary",C04.557.470.200.025
+D000232,Adenofibroma,C04.557.450.565.590.595
+D000233,Adenoidectomy,E04.580
+D000234,Adenoids,A04.623.557
+D000235,Adenolymphoma,C04.557.435
+D000236,Adenoma,C04.557.470
+D000237,"Adenoma, Basophil",C04.557.465.625.650
+D000238,"Adenoma, Chromophobe",C04.557.465.625.650
+D000239,"Adenoma, Acidophil",C04.557.465.625.650
+D000241,Adenosine,D03.633.100.759.590
+D000242,Cyclic AMP,D03.633.100.759.646.138
+D000243,Adenosine Deaminase,D08.811.277.151.486
+D000244,Adenosine Diphosphate,D03.633.100.759.646.138
+D000245,Adenosine Diphosphate Glucose,D03.633.100.759.646.138.124.070
+D000246,Adenosine Diphosphate Ribose,D03.633.100.759.646.138.124.070
+D000247,Adenosine Diphosphate Sugars,D03.633.100.759.646.138.124
+D000248,Adenosine Kinase,D08.811.913.696.620
+D000249,Adenosine Monophosphate,D03.633.100.759.646.138
+D000250,Adenosine Phosphosulfate,D03.633.100.759.646.138.180
+D000251,Adenosine Triphosphatases,D08.811.277.040
+D000252,Calcium-Transporting ATPases,D08.811.277.040.025.314
+D000254,Sodium-Potassium-Exchanging ATPase,D08.811.277.040.025.314
+D000255,Adenosine Triphosphate,D03.633.100.759.646.138
+D000256,Adenoviridae,B04.280
+D000257,Adenoviridae Infections,C01.925.256
+D000258,"Adenovirus Infections, Human",C01.925.256.076
+D000259,Aviadenovirus,B04.280.030
+D000260,"Adenoviruses, Human",B04.280.030.500
+D000261,"Adenoviruses, Simian",B04.280.030.500
+D000262,Adenylyl Cyclases,D08.811.520.650
+D000263,Adenylate Kinase,D08.811.913.696.650
+D000264,Adenylosuccinate Lyase,D08.811.520.232.300
+D000265,Adenylosuccinate Synthase,D08.811.464.259
+D000266,Adenylyl Imidodiphosphate,D03.633.100.759.646.138.236
+D000267,Tissue Adhesions,C23.550.355.274
+D000268,Adhesiveness,G02.860
+D000269,Adhesives,D27.720
+D000270,Adie Syndrome,C10.177
+D000272,Adipates,D02.241.081.337
+D000273,Adipose Tissue,A10.165
+D000274,Adiposis Dolorosa,C17.800.463
+D000275,Adjustment Disorders,F03.950
+D000276,"Adjuvants, Immunologic",D27.505.696.477
+D000277,"Adjuvants, Pharmaceutic",D26.650
+D000278,"Administration, Buccal",E02.319.267.100
+D000279,"Administration, Cutaneous",E02.319.267.120
+D000280,"Administration, Inhalation",E02.319.267
+D000281,"Administration, Intranasal",E02.319.267.120.655
+D000282,"Administration, Intravaginal",E02.319.267.120
+D000283,"Administration, Intravesical",E02.319.267.120
+D000284,"Administration, Oral",E02.319.267
+D000285,"Administration, Rectal",E02.319.267.120.655
+D000286,"Administration, Sublingual",E02.319.267.100
+D000287,"Administration, Topical",E02.319.267
+D000288,Administrative Personnel,M01.526
+D000289,"Admitting Department, Hospital",N02.278.216.500.968
+D000290,Adnexa Uteri,A05.360.319
+D000291,Adnexal Diseases,C12.050.351.500
+D000292,Pelvic Inflammatory Disease,C01.635
+D000293,Adolescent,M01.060
+D000294,Adolescent Behavior,F01.145
+D000295,Adolescent Medicine,H02.403
+D000296,Adolescent Psychiatry,F04.096.544
+D000297,"Psychology, Adolescent",F04.096.628
+D000298,"Adolescent, Hospitalized",M01.643
+D000299,"Adolescent, Institutionalized",M01.643
+D000300,Adoption,I01.880.853.150
+D000301,Adosterol,D04.210.500.247.808
+D000302,Adrenal Cortex,A06.300.071
+D000303,Adrenal Cortex Diseases,C19.053
+D000304,Adrenal Cortex Function Tests,E01.370.374
+D000305,Adrenal Cortex Hormones,D06.472
+D000306,Adrenal Cortex Neoplasms,C04.588.322.078
+D000307,Adrenal Gland Diseases,C19
+D000308,Adrenocortical Hyperfunction,C19.053
+D000309,Adrenal Insufficiency,C19.053
+D000310,Adrenal Gland Neoplasms,C04.588.322
+D000311,Adrenal Glands,A06.300
+D000312,"Adrenal Hyperplasia, Congenital",C12.050.351.875.253.090
+D000313,Adrenal Medulla,A06.300.071
+D000314,Adrenal Rest Tumor,C04.557.470.035
+D000315,Adrenalectomy,E04.270
+D000316,Adrenergic alpha-Agonists,D27.505.519.625.050.100
+D000317,Adrenergic alpha-Antagonists,D27.505.519.625.050.200
+D000318,Adrenergic beta-Agonists,D27.505.519.625.050.100
+D000319,Adrenergic beta-Antagonists,D27.505.519.625.050.200
+D000320,Adrenergic Fibers,A08.675.100
+D000322,Adrenergic Agonists,D27.505.519.625.050
+D000323,Adrenochrome,D03.633.100.473
+D000324,Adrenocorticotropic Hormone,D06.472.699.327.935.531
+D000325,Adrenodoxin,D12.776.157.427.374.375
+D000326,Adrenoleukodystrophy,C10.228.140.163.100
+D000327,Adsorption,G01
+D000328,Adult,M01.060
+D000329,Advertising,J01.219.687
+D000330,Aedes,B01.050.500.131.617.720.500.500.750.712.500.875
+D000331,Aequorin,D12.776.532
+D000332,Aerobiosis,G02.111
+D000333,Aeromonas,B03.440.450.019
+D000334,Aerophagy,C23.888.821
+D000335,Aerosol Propellants,D26.255.165.055
+D000336,Aerosols,D20.280
+D000337,Aerospace Medicine,H02.403
+D000338,beta-Aminoethyl Isothiourea,D02.065.950.898
+D000339,Affect,F01.470
+D000341,"Affective Disorders, Psychotic",F03.700
+D000342,Affective Symptoms,F01.145.126
+D000343,Afferent Loop Syndrome,C06.405.469.531
+D000344,Afferent Pathways,A08.612
+D000345,Affinity Labels,D27.720.470.410
+D000346,Afghanistan,Z01.252.245.782
+D000347,Afibrinogenemia,C15.378.100.100
+D000348,Aflatoxins,D03.383.663.283
+D000349,Africa,Z01
+D000350,"Africa, Central",Z01.058.290
+D000351,"Africa, Eastern",Z01.058.290
+D000352,"Africa, Northern",Z01.058
+D000353,"Africa, Southern",Z01.058.290
+D000354,"Africa, Western",Z01.058.290
+D000355,African Horse Sickness,C01.920.313
+D000356,African Horse Sickness Virus,B04.820.223.719.550
+D000357,African Swine Fever,C01.920.930
+D000358,African Swine Fever Virus,B04.280.049
+D000359,Aftercare,E02.760.169
+D000360,Afterimage,F02.463.593.932
+D000361,Agammaglobulinemia,C15.378.147
+D000362,Agar,D09.698.360
+D000363,Agaricales,B01.300.179
+D000364,Agaricus,B01.300.179.100
+D000365,Age Determination by Skeleton,E01.370
+D000366,Age Determination by Teeth,E01.370.350.700.720
+D000367,Age Factors,N05.715.350
+D000368,Aged,M01.060.116
+D000369,"Aged, 80 and over",M01.060.116.100
+D000370,Ageusia,C10.597.751.861
+D000371,Agglutination,G02.111
+D000372,Agglutination Tests,E01.370.225.812.735
+D000373,Agglutinins,D27.505.696.477
+D000374,Aggression,F01.145.126.050
+D000375,Aging,G07.345
+D000376,Agmatine,D02.078.370
+D000377,Agnosia,C10.597.606.762
+D000378,Agonistic Behavior,F01.145.126.125
+D000379,Agoraphobia,F03.080.725
+D000380,Agranulocytosis,C15.378.243.750
+D000381,Agraphia,C10.597.606.150.500
+D000382,Agricultural Workers' Diseases,C24
+D000383,Agriculture,J01
+D000385,Aid to Families with Dependent Children,N03.219.521.346.506.849
+D000386,AIDS-Related Complex,C01.221.250.875
+D000387,Ainhum,C05.116.264
+D000388,Air,G16.500.275.063
+D000389,Air Conditioning,N06.230.150
+D000390,Air Ionization,G02
+D000391,Air Microbiology,H01.158.273.540.274
+D000392,Air Movements,G16.500.175
+D000393,Air Pollutants,D27.888.284
+D000395,"Air Pollutants, Occupational",D27.888.284.101
+D000396,"Air Pollutants, Radioactive",D20.693
+D000397,Air Pollution,N06.850.460
+D000398,"Air Pollution, Radioactive",N06.850.460.100
+D000399,Air Pressure,G16.500.750.274
+D000400,Air Sacs,A13
+D000401,Aircraft,J01.937.285
+D000402,Airway Obstruction,C08.618.846
+D000403,Airway Resistance,E01.370.386.700
+D000404,Ajmaline,D03.132.436.681
+D000405,Akinetic Mutism,C10.228.140
+D000406,AKR murine leukemia virus,B04.613.807.375.525
+D000407,Alabama,Z01.107.567.875.075
+D000408,Alamethicin,D04.345.566
+D000409,Alanine,D12.125
+D000410,Alanine Transaminase,D08.811.913.477.700
+D000411,Alanine Racemase,D08.811.399.894.200
+D000412,Alanine-tRNA Ligase,D08.811.464.263.200
+D000413,Alaska,Z01.107.567.875.580
+D000415,Albania,Z01.542.248
+D000416,Alberta,Z01.107.567.176
+D000417,Albinism,C11.270
+D000418,Albumins,D12.776
+D000419,Albuminuria,C12.050.351.968.934.734
+D000420,Albuterol,D02.033.100.291
+D000421,Alcaligenes,B03.440.400.425.115
+D000422,Alchemy,K01.672
+D000423,Alcian Blue,D03.633.100.473
+D000425,Alcohol Amnestic Disorder,C10.720.112
+D000426,Alcohol Dehydrogenase,D08.811.682.047.820
+D000427,Alcohol Deterrents,D27.505.954.427
+D000428,Alcohol Drinking,F01.145.317
+D000429,Alcohol Oxidoreductases,D08.811.682
+D000430,Alcohol Withdrawal Delirium,C10.720.112
+D000431,Ethanol,D02.033
+D000432,Methanol,D02.033
+D000433,1-Propanol,D02.033.755
+D000434,Alcoholic Beverages,G07.203.100
+D000435,Alcoholic Intoxication,C25.775.100
+D000436,Alcoholics Anonymous,N03.540.782
+D000437,Alcoholism,C25.775.100
+D000438,Alcohols,D02
+D000439,Pentanols,D02.033.415
+D000440,Butanols,D02.033.415
+D000441,Hexanols,D02.033.415
+D000442,Octanols,D02.033.415
+D000443,Alcuronium,D02.092.877.844
+D000444,Aldehyde Dehydrogenase,D08.811.682.657.163
+D000445,Aldehyde Oxidoreductases,D08.811.682.657
+D000446,Aldehyde-Lyases,D08.811.520.224
+D000447,Aldehydes,D02
+D000448,Aldicarb,D02.241.081.251
+D000449,Aldehyde Reductase,D08.811.682.047.150.700.156
+D000450,Aldosterone,D04.210.500.745.745.654
+D000451,Mineralocorticoid Receptor Antagonists,D06.347
+D000452,Aldrin,D02.455.526.439
+D000453,Aleutian Mink Disease,C01.925.256.700
+D000454,Aleutian Mink Disease Virus,B04.280.580.650.040
+D000455,Medicago sativa,B01.875.800.575.912.250.401.590
+D000458,Cyanobacteria,B03
+D000459,Phaeophyceae,B01.750
+D000460,Chlorophyta,B01.875
+D000461,Rhodophyta,B01
+D000462,Algeria,Z01.058.266
+D000463,Algestone Acetophenide,D04.210.500.745.745.654.829.025
+D000464,Alginates,D09.698
+D000465,Algorithms,G17
+D000466,Alkadienes,D02.455.326.271.665
+D000468,Alkalies,D01
+D000469,Alkaline Phosphatase,D08.811.277.352.650
+D000470,Alkaloids,D03
+D000471,Alkalosis,C18.452.076
+D000472,"Alkalosis, Respiratory",C08.618.501
+D000473,Alkanes,D02.455.326
+D000474,Alkaptonuria,C16.320.565.100
+D000475,Alkenes,D02.455.326
+D000476,Alkanesulfonates,D02.455.326.146.100
+D000477,Alkylating Agents,D27.505.519
+D000478,Alkylation,G02.111
+D000479,Alkylmercury Compounds,D02.691.750
+D000480,Alkynes,D02.455.326
+D000481,Allantoin,D02.065.950
+D000482,Allantois,A10.615.284
+D000483,Alleles,G05.360.340.024.340
+D000485,Allergens,D23.050
+D000486,Allergy and Immunology,H02.403
+D000487,Allethrins,D02.455.849.575.188.750
+D000488,Allied Health Personnel,M01.526.485
+D000489,Alligators and Crocodiles,B01.050.150.900.833
+D000490,Allium,B01.875.800.575.912.250.618.100.050
+D000492,Allophanate Hydrolase,D08.811.277.087
+D000493,Allopurinol,D03.633.100.759
+D000494,Allosteric Regulation,G02.111
+D000495,Allosteric Site,G02.111.570.120
+D000496,Alloxan,D03.383.742.698
+D000497,Alloys,D01.552
+D000498,Allyl Compounds,D02.455.326.271
+D000499,Allylamine,D02.092
+D000500,Allylestrenol,D04.210.500.365.415
+D000501,Allylglycine,D02.455.326.271.122
+D000502,Allylisopropylacetamide,D02.065.064
+D000503,Almanacs as Topic,L01.462.500.682.192.836
+D000504,Aloe,B01.875.800.575.912.250.618.100.970
+D000505,Alopecia,C17.800.329.937
+D000506,Alopecia Areata,C17.800.329.937.122
+D000507,"Mucinosis, Follicular",C17.300.550
+D000508,Alouatta,B01.050.150.900.649.313.988.400.600.075.050
+D000509,alpha-Fetoproteins,D12.776.124.790.106
+D000510,Alpha-Globulins,D12.776.124.790
+D000511,alpha-Macroglobulins,D12.776.124.050
+D000512,Alpha Particles,G01.750.750
+D000513,Alpha Rhythm,E01.370.376.300.150
+D000514,alpha 1-Antichymotrypsin,D09.400.430
+D000515,alpha 1-Antitrypsin,D09.400.430
+D000516,alpha-Amylases,D08.811.277.450.066
+D000517,alpha-Chlorohydrin,D02.033.260
+D000518,Eflornithine,D12.125.068.665
+D000519,alpha-Galactosidase,D08.811.277.450.410
+D000520,alpha-Glucosidases,D08.811.277.450.420
+D000521,alpha-MSH,D06.472.699.327.935
+D000522,Alphaprodine,D03.383.621
+D000523,Algestone,D04.210.500.745.745.654.829
+D000524,Alphavirus,B04.820.578.875
+D000525,Alprazolam,D03.633.100.079.080
+D000526,Alprenolol,D02.033.100.624.698
+D000527,Alprostadil,D10.251.355.255.550.250
+D000528,Alternaria,B01.300.381
+D000529,Complementary Therapies,E02
+D000530,Alfaxalone Alfadolone Mixture,D04.210.500.745.558
+D000531,Altitude,G16.500.275
+D000532,Altitude Sickness,C08.618
+D000533,Altruism,F01.145.813
+D000534,Alum Compounds,D01.056
+D000535,Aluminum,D01.268.557
+D000536,Aluminum Hydroxide,D01.045.250
+D000537,Aluminum Oxide,D01.056
+D000538,Aluminum Silicates,D01.056.050
+D000539,Alveolar Process,A02.835.232.781.324.502
+D000540,Alveolar Ridge Augmentation,E04.545.550
+D000541,Alveolectomy,E04.545.550
+D000542,"Alveolitis, Extrinsic Allergic",C08.381.483
+D000543,Alveoloplasty,E04.545.550
+D000544,Alzheimer Disease,C10.228.140.380
+D000545,Amanita,B01.300.179.100
+D000546,Amanitins,D04.345.566
+D000547,Amantadine,D02.455.426.100.050
+D000548,Amaranth Dye,D02.172
+D000549,Ambenonium Chloride,D02.092.877.096
+D000550,Amblyopia,C10.228.140
+D000551,Ambroxol,D02.092.146.300
+D000552,Ambulances,J01.937.500
+D000553,Ambulatory Care,E02.760
+D000554,Ambulatory Care Facilities,N02.278
+D000555,Ambulatory Care Information Systems,N04.452.442.452.452
+D000556,Ambulatory Surgical Procedures,E04
+D000557,Ambystoma,B01.050.150.900.090.608.080
+D000558,Ambystoma mexicanum,B01.050.150.900.090.608.080.068
+D000559,Ambystomatidae,B01.050.150.900.090.608
+D000560,Amdinocillin,D02.065.589.099.750
+D000561,Amdinocillin Pivoxil,D02.065.589.099.750.124
+D000562,Amebiasis,C01.610.752
+D000563,Amebicides,D27.505.954.122.250.100
+D000564,Ameloblastoma,C04.557.695
+D000565,Ameloblasts,A11.436
+D000566,Amelogenesis,G07.345.500.325.377.750
+D000567,Amelogenesis Imperfecta,C07.650.800.295
+D000568,Amenorrhea,C23.550.568
+D000569,Americas,Z01
+D000570,American Cancer Society,N03.540.630.780
+D000571,American Dental Association,N03.540.828.506
+D000572,American Heart Association,N03.540.630.780
+D000573,American Hospital Association,N03.540.828.540
+D000574,American Medical Association,N03.540.828.589
+D000575,American Nurses' Association,N03.540.828.672
+D000576,Americium,D01.268.271.100
+D000577,Amides,D02
+D000578,Amidines,D02
+D000579,Amidinotransferases,D08.811.913.555
+D000580,Amido Black,D02.172
+D000581,Amidohydrolases,D08.811.277
+D000582,Amidophosphoribosyltransferase,D08.811.913.400.725
+D000583,Amikacin,D09.408.051.476
+D000584,Amiloride,D03.383.679
+D000585,Aminacrine,D03.633.300.046.250
+D000586,Amination,G02.111
+D000587,Oxidoreductases Acting on CH-NH Group Donors,D08.811.682
+D000588,Amines,D02
+D000590,Amino Acid Chloromethyl Ketones,D12.125
+D000591,Amino Acid Isomerases,D08.811.399.894
+D000592,"Amino Acid Metabolism, Inborn Errors",C16.320.565
+D000594,Amino Acid Oxidoreductases,D08.811.682.664
+D000595,Amino Acid Sequence,G02.111.570
+D000596,Amino Acids,D12
+D000597,"Amino Acids, Branched-Chain",D12.125
+D000598,"Amino Acids, Cyclic",D12.125
+D000599,"Amino Acids, Diamino",D12.125
+D000600,"Amino Acids, Dicarboxylic",D12.125
+D000601,"Amino Acids, Essential",D12.125
+D000602,"Amino Acids, Peptides, and Proteins",
+D000603,"Amino Acids, Sulfur",D02.886
+D000604,Amino Acyl-tRNA Synthetases,D08.811.464.263
+D000605,Amino Alcohols,D02.033
+D000606,Amino Sugars,D09
+D000607,Aminoacetonitrile,D02.626.080
+D000608,Renal Aminoacidurias,C12.050.351.968.419.815
+D000609,Aminoacridines,D03.633.300.046
+D000611,Aminobiphenyl Compounds,D02.455.426.559.389.185
+D000612,4-Aminobutyrate Transaminase,D08.811.913.477.700
+D000613,Aminobutyrates,D02.241.081.114
+D000614,Aminocaproates,D02.241.081.193
+D000615,Aminoethylphosphonic Acid,D02.705.429
+D000616,Aminoglutethimide,D03.383.621.808.425
+D000617,Aminoglycosides,D09.408
+D000618,Aminohippuric Acids,D02.065.277.431
+D000619,Aminohydrolases,D08.811.277
+D000620,Aminoimidazole Carboxamide,D03.383.129.308
+D000621,Aminoisobutyric Acids,D02.241.081.114.968
+D000622,Aminolevulinic Acid,D02.241.755.547
+D000623,Porphobilinogen Synthase,D08.811.520.241.300
+D000624,5-Aminolevulinate Synthetase,D08.811.913.050
+D000625,Aminooxyacetic Acid,D02.092.570
+D000626,Aminopeptidases,D08.811.277.656.350
+D000627,Aminophenols,D02.092.146
+D000628,Aminophylline,D02.092.782.258.368
+D000629,Aminopropionitrile,D02.626
+D000630,Aminopterin,D03.633.100.733.631
+D000631,Aminopyridines,D02.092
+D000632,Aminopyrine,D03.383.129.539.850
+D000633,Aminopyrine N-Demethylase,D08.811.682.662.582
+D000634,Aminoquinolines,D03.633.100.810
+D000635,Aminorex,D03.383.129.462
+D000636,Aminosalicylic Acids,D02.241.223.100.300.595
+D000637,Transaminases,D08.811.913.477
+D000638,Amiodarone,D03.633.100.127
+D000639,Amitriptyline,D02.455.426.559.847.181.384
+D000640,Amitrole,D03.383.129.799
+D000641,Ammonia,D01.362
+D000642,Ammonia-Lyases,D08.811.520.232
+D000643,Ammonium Chloride,D01.210.450.150
+D000644,Quaternary Ammonium Compounds,D01.625.062
+D000645,Ammonium Sulfate,D01.625.062
+D000646,Ammotherapy,E02.056
+D000647,Amnesia,C10.597.606.525
+D000648,"Amnesia, Retrograde",C10.597.606.525.100
+D000649,Amniocentesis,E01.370.225.500.384
+D000650,Amnion,A10.615.284
+D000652,Amniotic Band Syndrome,C16.614
+D000653,Amniotic Fluid,A12
+D000654,Amobarbital,D03.383.742.698.253
+D000655,Amodiaquine,D03.633.100.810.050
+D000656,Amoeba,B01.046.500.100.700
+D000657,Amoxapine,D03.633.300.347.500
+D000658,Amoxicillin,D02.065.589.099.750.750.050
+D000659,AMP Deaminase,D08.811.277.151.653
+D000661,Amphetamine,D02.092.471.683.152
+D000662,Amphetamines,D02.092.471.683
+D000663,Amphibians,B01.050.150.900
+D000664,Amphibian Venoms,D20.888
+D000665,Ampholyte Mixtures,D27.720.470.280
+D000666,Amphotericin B,D02.540.576.500
+D000667,Ampicillin,D02.065.589.099.750.750
+D000668,Ampicillin Resistance,G06.099.225.500.600
+D000669,"Amplifiers, Electronic",E07.305
+D000670,Amprolium,D03.383.725.676
+D000671,"Amputation, Surgical",E04.555
+D000672,Amputation Stumps,A01.378
+D000673,"Amputation, Traumatic",C26
+D000674,Amputees,M01.150
+D000675,Ampyrone,D03.383.129.539.850.077
+D000676,Amrinone,D02.092.080
+D000677,Amsacrine,D03.633.300.046.250
+D000678,Amygdalin,D02.626
+D000679,Amygdala,A08.186.211.180
+D000680,Amyl Nitrite,D02.633
+D000681,Amylases,D08.811.277.450
+D000682,Amyloid,D05.500
+D000683,Serum Amyloid P-Component,D09.400.430
+D000685,Serum Amyloid A Protein,D12.776.049.407
+D000686,Amyloidosis,C18.452.845
+D000687,Amylopectin,D09.301.915
+D000688,Amylose,D09.301.915
+D000690,Amyotrophic Lateral Sclerosis,C10.228.854
+D000691,Anabasine,D03.132
+D000693,Anaerobiosis,G02.111
+D000694,Anal Gland Neoplasms,C04.588
+D000695,Anal Sacs,A13
+D000697,Central Nervous System Stimulants,D27.505.696
+D000698,Analgesia,E03
+D000699,"Pain Insensitivity, Congenital",C10.668.829
+D000700,Analgesics,D27.505.696.663.850
+D000701,"Analgesics, Opioid",D27.505.696.277.600
+D000703,Analog-Digital Conversion,L01.224.230.260.280
+D000704,Analysis of Variance,E05.318.740
+D000705,Anaphase,G04.144.220.220.687
+D000706,Anaphylatoxins,D12.776.124.486.274
+D000707,Anaphylaxis,C20.543.480
+D000708,Anaplasia,C04.697
+D000709,Anaplasma,B03.440.664.750
+D000710,Anaplasmataceae,B03.440.664
+D000711,Anaplasmataceae Infections,C01.150.252.400
+D000712,Anaplasmosis,C01.150.252.400.054
+D000713,"Anastomosis, Roux-en-Y",E04.035
+D000714,"Anastomosis, Surgical",E04
+D000715,Anatomy,H01.158
+D000716,"Anatomy, Artistic",H01.158.100
+D000717,"Anatomy, Comparative",H01.158.100
+D000718,"Anatomy, Regional",H01.158.100
+D000719,"Anatomy, Veterinary",H01.158.100
+D000720,"Ancillary Services, Hospital",N02.278.216.500
+D000721,Ancrod,D08.811.277.656.300.760.955
+D000722,Ancylostoma,B01.050.500.500.294.400.968.100
+D000723,Ancylostomatoidea,B01.050.500.500.294.400.968
+D000724,Ancylostomiasis,C01.610.335.508.700.775.455
+D000725,Andorra,Z01.542
+D000726,Androgen Antagonists,D06.347
+D000727,Androgen-Binding Protein,D12.776.157
+D000728,Androgens,D27.505.696.399.472
+D000730,Androstadienes,D04.210.500.054.079
+D000731,Androstanes,D04.210.500
+D000732,Androstanols,D04.210.500.054
+D000733,Androstatrienes,D04.210.500.054.079
+D000734,Androstenediols,D04.210.500.054.079.429
+D000735,Androstenedione,D04.210.500.054.079
+D000736,Androstenes,D04.210.500.054
+D000737,Androstenols,D04.210.500.054.079
+D000738,Androsterone,D04.210.500.054.040
+D000739,Anecdotes as Topic,K01.517
+D000740,Anemia,C15.378
+D000741,"Anemia, Aplastic",C15.378.050
+D000742,"Anemia, Dyserythropoietic, Congenital",C15.378.050.141.150
+D000743,"Anemia, Hemolytic",C15.378.050
+D000744,"Anemia, Hemolytic, Autoimmune",C15.378.050.141
+D000745,"Anemia, Hemolytic, Congenital",C15.378.050.141
+D000746,"Anemia, Hemolytic, Congenital Nonspherocytic",C15.378.050.141.150
+D000747,"Anemia, Hypochromic",C15.378.050
+D000748,"Anemia, Macrocytic",C15.378.050
+D000749,"Anemia, Megaloblastic",C15.378.050.252
+D000750,"Anemia, Myelophthisic",C15.378.050
+D000751,"Anemia, Neonatal",C15.378.050
+D000752,"Anemia, Pernicious",C15.378.050.252.196
+D000753,"Anemia, Refractory",C15.378.050
+D000754,"Anemia, Refractory, with Excess of Blasts",C15.378.050.400
+D000755,"Anemia, Sickle Cell",C15.378.050.141.150
+D000756,"Anemia, Sideroblastic",C15.378.050
+D000757,Anencephaly,C10.500.680
+D000758,Anesthesia,E03
+D000759,"Adjuvants, Anesthesia",D27.505.954.427
+D000760,Anesthesia and Analgesia,
+D000761,"Anesthesia Department, Hospital",N02.278.216.500.968
+D000762,Anesthesia Recovery Period,E03
+D000763,"Anesthesia, Caudal",E03.155.086.131
+D000764,"Anesthesia, Closed-Circuit",E03.155.197.197
+D000765,"Anesthesia, Conduction",E03.155
+D000766,"Anesthesia, Dental",E03.155
+D000767,"Anesthesia, Epidural",E03.155.086
+D000768,"Anesthesia, General",E03.155
+D000769,"Anesthesia, Inhalation",E03.155.197
+D000770,"Anesthesia, Endotracheal",E03.155.197.197
+D000771,"Anesthesia, Intravenous",E03.155
+D000772,"Anesthesia, Local",E03.155.086
+D000773,"Anesthesia, Obstetrical",E03.155
+D000774,"Anesthesia, Rectal",E03.155.197
+D000775,"Anesthesia, Spinal",E03.155.086
+D000776,Anesthesiology,H02.403
+D000777,Anesthetics,D27.505.696.277
+D000778,"Anesthetics, Dissociative",D27.505.696.277.100.035.075
+D000779,"Anesthetics, Local",D27.505.696.277.100
+D000780,Anestrus,G08.686.195
+D000781,Anethole Trithione,D02.355.601.200
+D000782,Aneuploidy,C23.550.210
+D000783,Aneurysm,C14.907
+D000784,Aortic Dissection,C14.907.055.448
+D000785,"Aneurysm, Infected",C01
+D000786,Anger,F01.470
+D000787,Angina Pectoris,C14.280.647
+D000788,"Angina Pectoris, Variant",C14.280.647.187.150
+D000789,"Angina, Unstable",C14.280.647.187
+D000790,Angiocardiography,E01.370.350.130
+D000792,Angiography,E01.370.350.700
+D000793,Angioid Streaks,C11.768
+D000794,Angiokeratoma,C04.557.645
+D000795,Fabry Disease,C10.228.140.163.100.435.825
+D000796,Angiolymphoid Hyperplasia with Eosinophilia,C15.378.553.231
+D000798,Angiomatosis,C14.907
+D000799,Angioedema,C14.907
+D000800,"Angioplasty, Balloon",E02.148.050
+D000801,Angiostrongylus,B01.050.500.500.294.400.968.588
+D000802,Angiotensin Amide,D12.644.456.073.041
+D000803,Angiotensin I,D06.472.699.094
+D000804,Angiotensin II,D06.472.699.094
+D000805,Angiotensin III,D06.472.699.094
+D000806,Angiotensin-Converting Enzyme Inhibitors,D27.505.519.389.745
+D000808,Angiotensinogen,D12.644.456.073
+D000809,Angiotensins,D06.472.699
+D000810,Angola,Z01.058.290.175
+D000811,Anguilla,B01.050.150.900.493.338
+D000812,Anhydrides,D02
+D000813,Anilides,D02.065
+D000814,Aniline Compounds,D02.092
+D000815,Aniline Hydroxylase,D08.244.453.005
+D000816,Aniline Mustard,D02.455.526.728.650
+D000817,Anilino Naphthalenesulfonates,D02.092.146
+D000818,Animals,B01
+D000819,Animal Communication,F01.145.113
+D000820,Animal Diseases,
+D000821,Animal Feed,G07.203.300.300
+D000822,Animal Husbandry,J01.040
+D000823,Animal Identification Systems,E05
+D000824,Animal Nutritional Physiological Phenomena,G07.203.650
+D000825,Animal Structures,
+D000826,Animal Testing Alternatives,E05.017.080
+D000827,Animal Welfare,I01.880.604
+D000828,Animal Population Groups,B01.050
+D000829,"Animals, Domestic",B01.050.050
+D000830,"Animals, Laboratory",B01.050.050
+D000831,"Animals, Newborn",B01.050.050
+D000832,"Animals, Poisonous",B01.050.050
+D000833,"Animals, Suckling",B01.050.050
+D000835,"Animals, Wild",B01.050.050
+D000836,"Animals, Zoo",B01.050.050
+D000837,Anion Exchange Resins,D27.720.470.420
+D000838,Anions,D01.248.497
+D000839,Aniseikonia,C11.744
+D000840,Anisoles,D02.355.601
+D000841,Anisomycin,D03.383.773
+D000842,Ankle,A01.378.610
+D000843,Ankle Joint,A02.835.583.378
+D000844,Ankylosis,C05.550
+D000845,Annelida,B01.050.500
+D000846,Anniversaries and Special Events,K01.400
+D000847,Annual Reports as Topic,N04.452
+D000848,Anodontia,C07.650.800
+D000849,Anomia,C10.597.606.150.500
+D000850,Anomie,F01.145.813
+D000851,Anonyms and Pseudonyms,L01.559.598.400.556
+D000852,Anopheles,B01.050.500.131.617.720.500.500.750.712.500.875
+D000853,Anophthalmos,C11.250
+D000854,Anoplura,B01.050.500.131.617.690
+D000855,Anorexia,C23.888.821
+D000856,Anorexia Nervosa,F03.400
+D000857,Olfaction Disorders,C10.597.751
+D000858,Anovulation,C12.050.351.500.056.630
+D000860,Hypoxia,C23.888.852
+D000861,Anserine,D12.644.456.345
+D000862,Ant Venoms,D20.888.065
+D000863,Antacids,D27.505.519
+D000864,Antarctic Regions,Z01
+D000865,Antazoline,D03.383.129.308
+D000866,Antelopes,B01.050.150.900.649.313.500.380
+D000867,Anterior Chamber,A09.371.060
+D000868,Anterior Compartment Syndrome,C05.651.180
+D000869,Anterior Eye Segment,A09.371
+D000870,Anterior Horn Cells,A08.186.854.729
+D000871,Anthelmintics,D27.505.954.122.250
+D000872,Anthocyanins,D03.383.663.283.266.450
+D000873,Anthracenes,D02.455.426.559.847
+D000874,Anthracosilicosis,C08.381.483.581.062
+D000875,Anthralin,D02.455.426.559.847.117.380
+D000876,Anthramycin,D03.633.100.079.080.070
+D000877,Anthranilate Phosphoribosyltransferase,D08.811.600
+D000878,Anthranilate Synthase,D08.811.520.224.600
+D000880,Anthraquinones,D02.455.426.559.847.117.380
+D000881,Anthrax,C01.150.252.410.090
+D000882,Haplorhini,B01.050.150.900.649.313.988
+D000883,Anthropology,F04.096.879
+D000884,"Anthropology, Cultural",I01.076
+D000885,"Anthropology, Physical",I01.076
+D000886,Anthropometry,E01.370.600
+D000887,Anthroposophy,E02.190
+D000888,"Antibodies, Anti-Idiotypic",D12.776.124.486.485.114
+D000889,Anti-Arrhythmia Agents,D27.505.954.411
+D000890,Anti-Infective Agents,D27.505.954
+D000891,"Anti-Infective Agents, Local",D27.505.954.122
+D000892,"Anti-Infective Agents, Urinary",D27.505.954.122
+D000893,Anti-Inflammatory Agents,D27.505.954
+D000894,"Anti-Inflammatory Agents, Non-Steroidal",D27.505.696.663.850.014.040
+D000897,Anti-Ulcer Agents,D27.505.954.483
+D000898,Antibiosis,G06.550
+D000899,Aurodox,D02.455.326.271.665
+D000900,Anti-Bacterial Agents,D27.505.954.122
